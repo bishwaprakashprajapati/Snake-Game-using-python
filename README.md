@@ -20,15 +20,13 @@ This is a simple Snake game implemented in Python using the Turtle module.
 2. Make sure you have Python installed.
 3. Run the `main.py` file using Python.
 
-```bash
-python main.py
 
 ## Files
-- main.py: Contains the main game logic.
-- score_board.py: Defines the Score class for keeping track of the score.
-- food.py: Defines the Food class for generating food for the snake.
 
-## Gameplay
+- `main.py`: Contains the main game logic.
+- `score_board.py` : Defines the Score class for keeping track of the score.
+- `food.py`: Defines the Food class for generating food for the snake.
 
 ## Credits
-This game was created by Bishwa Prakash Prajapati.
+
+This game was created by Bishwa Praksh Prajapati.
